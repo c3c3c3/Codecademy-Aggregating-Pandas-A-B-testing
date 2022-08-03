@@ -1,1 +1,1 @@
-# Codecademy-Aggregatong-Pandas-A-B-testing
+# Codecademy-Aggregating-Pandas-A-B-testing
